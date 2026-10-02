@@ -1,4 +1,4 @@
-package dataClass
+package data_class
 
 fun main() {
     val t1 = NormalClass(100,200)
